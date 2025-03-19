@@ -1,0 +1,24 @@
+{
+  "name": "house-of-marktech",
+  "version": "1.0.0",
+  "description": "assessment houseofmarktech",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vansh249/House-of-Marktech.git"
+  },
+  "author": "vansh verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vansh249/House-of-Marktech/issues"
+  },
+  "homepage": "https://github.com/vansh249/House-of-Marktech#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.4.0"
+  }
+}
